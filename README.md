@@ -1,2 +1,8 @@
 # TODO-Application
  Complete TODO Application
+
+## features
+USER CAN CREATE TODOS
+USER CAN SEE THIER EXISTING TODOS
+USER  CAN MARK TODOS AS DONE 
+
